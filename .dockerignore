@@ -1,0 +1,11 @@
+.git*
+**/bin/
+**/obj/
+**/.vs/
+**/node_modules
+**/*.user
+.env.*
+*.log
+coverage/
+**/dist/
+*.md
